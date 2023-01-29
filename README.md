@@ -6,7 +6,9 @@ http://www.multiwii.com/
 を参照してください。
 # フォルダの説明
 ```
-MultiWii_2_3
-├── MultiWii：MultiWiiのプロジェクトファイルとソースコード
-└── MultiWiiConf：MultiWii起動時のPC上のGUIでボード設定やIMUの情報が取得できるソフトウェア
+.
+├── I2C_GPS_NAV_v2_2：u-bloxのGPSとi2cで通信するためのファームウェアのソースコード
+└── MultiWii_2_3
+    ├── MultiWii：MultiWiiのプロジェクトファイルとソースコード
+    └── MultiWiiConf：MultiWii起動時のPC上のGUIでボード設定やIMUの情報が取得できるソフトウェア
 ```
